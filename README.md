@@ -17,7 +17,7 @@ brew install jq
 And You can get `Alfred-Json-Format` via [release](https://github.com/mayooot/alfred-json-format/releases) or `git clone` this repo.
 
 ~~~
-git clone https://github.com/mayooot/alfred-json-fromat
+git clone https://github.com/mayooot/alfred-json-format
 ~~~
 
 
